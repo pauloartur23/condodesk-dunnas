@@ -1,0 +1,1 @@
+ALTER TABLE chamados ADD COLUMN IF NOT EXISTS tipo_chamado VARCHAR(50);
